@@ -1,0 +1,24 @@
+{
+  "name": "GMAIL_API_TEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseFru/GMAIL_API_TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromiseFru/GMAIL_API_TEST/issues"
+  },
+  "homepage": "https://github.com/PromiseFru/GMAIL_API_TEST#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0"
+  }
+}
